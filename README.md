@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/pypi/v/fbiter.svg)][https://pypi.python.org/pypi/fbiter] [![License](https://img.shields.io/pypi/l/fbiter.svg)][https://pypi.python.org/pypi/fbiter]
+[![Version](https://img.shields.io/pypi/v/fbiter.svg)](https://pypi.python.org/pypi/fbiter) [![License](https://img.shields.io/pypi/l/fbiter.svg)](https://pypi.python.org/pypi/fbiter)
 
 # fbiter
 
